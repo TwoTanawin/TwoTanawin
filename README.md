@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanawin</h1>
-<h3 align="center">I'm machine learning developer</h3>
+<h3 align="center">I'm Ai & Robotics developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
